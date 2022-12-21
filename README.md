@@ -2,7 +2,7 @@
 
 ## Update 2022-12-21
 
-We have moved to the development to https://github.com/Roma-JS/roma-js-on-astro.
+We have moved the development to https://github.com/Roma-JS/roma-js-on-astro.
 
 We are also live at https://romajs.org 🚀
 
