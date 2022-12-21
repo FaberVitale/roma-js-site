@@ -1,5 +1,13 @@
 # @roma-js/site
 
+## Update 2022-12-21
+
+We have moved to the development to https://github.com/Roma-JS/roma-js-on-astro.
+
+We are also live at https://romajs.org 🚀
+
+---
+
 ## Description
 
 The new RomaJS website built with [astro](https://astro.build/) and [SolidJS](https://www.solidjs.com/).
